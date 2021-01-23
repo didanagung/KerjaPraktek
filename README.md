@@ -14,6 +14,6 @@ Berikut adalah user default yang telah kami buat :
 
 Kemudian sesudah mengimport database maka anda ubah terlebih dahulu nama database dan password yang akan dituju sesuai dengan localhost yang ada punya.
 buka file yang sudah anda download tadi menggunakan terminal (saya disini menggunakan Git Bash)
-lalu jalankan **npm install** pada terminal yang anda pakai, 
+lalu jalankan **composer install** pada terminal yang anda pakai, 
 kemudian ketik **php artisan key:generate** pada terminal,
 lalu ketik **php artisan serve** pada terminal untuk menjalankan localhostnya.
