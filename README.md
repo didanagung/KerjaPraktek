@@ -11,3 +11,9 @@ Berikut adalah user default yang telah kami buat :
 **Wakil Ketua**
 - Email : naon@gmail.com
 - Password : 1234567890
+
+Kemudian sesudah mengimport database maka anda ubah terlebih dahulu nama database dan password yang akan dituju sesuai dengan localhost yang ada punya.
+buka file yang sudah anda download tadi menggunakan terminal (saya disini menggunakan Git Bash)
+lalu jalankan **npm install** pada terminal yang anda pakai 
+kemudian ketik **php artisan key:generate** pada terminal
+ketik **php artisan serve** pada terminal untuk menjalankan localhostnya.
