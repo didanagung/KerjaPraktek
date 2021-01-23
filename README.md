@@ -1,4 +1,5 @@
-# KerjaPraktek
+# Kerja Praktek
+# Surat Keterangan yang dikeluarkan kampus STMIK Sumedang
 ## Cara Penginstalan
 Buka File sql lalu import pada database yang anda punya dan sesuaikan namanya dengan .env
 Pada database ini kita buat default user admin dan wakil ketua, karena jika anda mendaftar akan otomatis menjadi **Mahasiswa**
