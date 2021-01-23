@@ -5,8 +5,9 @@ Pada database ini kita buat default user admin dan wakil ketua, karena jika anda
 Berikut adalah user default yang telah kami buat :
 
 **Admin**
-**Email : didansergia@gmail.com**
-**Password : 1234567890**
+*Email : didansergia@gmail.com
+*Password : 1234567890
 
 **Wakil Ketua**
-**Email : 
+*Email : naon@gmail.com
+*Password : 1234567890
